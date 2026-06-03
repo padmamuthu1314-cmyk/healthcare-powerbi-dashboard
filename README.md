@@ -1,7 +1,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
 ![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
 ![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red)
 
 # Medical Billing Dashboard – Power BI
