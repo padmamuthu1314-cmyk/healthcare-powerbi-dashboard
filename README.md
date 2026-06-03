@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=padmamuthu1314-cmyk.healthcare-powerbi-dashboard)
+
 # Medical Billing Dashboard – Power BI
 
 ## Project Overview
