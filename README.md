@@ -41,3 +41,9 @@ This Power BI dashboard was developed to monitor healthcare revenue cycle perfor
 ## Domain
 
 Healthcare Revenue Cycle Management (RCM)
+
+## Dashboard Screenshots
+
+![Executive Summary](Overview.png)
+![Corrective Action](Coder_Compliance_Monitoing.png)
+![Coding Analysis](Coding_Analysis.png)
